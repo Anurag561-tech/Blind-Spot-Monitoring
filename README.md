@@ -7,7 +7,7 @@ This project involves the development of a Blindspot Monitoring System (BMS) usi
 - **Real-time Blindspot Detection:** Uses ultrasonic sensors to monitor the blind spots of a vehicle and detect hazards.
 - **C Language Implementation:** The system is programmed using C, providing efficient and fast processing.
 - **Simulation on Tinkercad:** The design and functionality of the system were validated through simulations on Tinkercad before hardware implementation.
-- **High Accuracy:** Achieved 100% accuracy in static, overtaking, and positioning tests with zero false signal occurrences.
+- **High Accuracy:** Achieved 87% accuracy in static, overtaking, and positioning tests with zero false signal occurrences.
 
 ## Components Used
 
@@ -53,8 +53,5 @@ All tests were passed successfully, with the system showing no false signals or 
 
 This Blindspot Monitoring System provides a cost-effective and reliable solution for enhancing vehicle safety by eliminating blind spots. Future improvements could include using higher quality sensors and integrating the system with vehicle onboard diagnostics.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 
